@@ -13,7 +13,8 @@ export default function App() {
           <Dictionary defaultKeyword="forest" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Nora Yusop</small>
+          <small>Coded by Nora Yusop. Open-sourced on <a href="https://github.com/Wintermariesolstice/dictionary-project"> Github</a> hosted on Netlify.
+          </small>
         </footer>
       </div>
     </div>
